@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://ali-auth-api.onrender.com/api/auth";
+const API_BASE_URL = "https://site-cxw7.onrender.com/";
 
 document.getElementById("signupForm").addEventListener("submit", async (e) => {
   e.preventDefault();
