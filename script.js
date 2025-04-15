@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://site-cxw7.onrender.com/";
+const API_BASE_URL = "https://site-0yxx.onrender.com/api/auth";
 
 document.getElementById("signupForm").addEventListener("submit", async (e) => {
   e.preventDefault();
